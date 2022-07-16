@@ -98,6 +98,8 @@ main{
     width: 100%;
     left: 0px;
     top:0;
+    display: grid;
+  grid-template-columns: repeat(2, 1fr);
 }
 .menu-div{
    position: relative;
