@@ -156,6 +156,19 @@ main{
 .about p {
     color: #1E1E1E;
 }
+.about-div p{
+    position: absolute;
+    width: 40%;
+    height: 273px;
+    left: 87px;
+    top: 187px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    color: #FFFFFF;
+ 
+}
 .order:hover{
     background: whitesmoke;
     color: green;
