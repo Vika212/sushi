@@ -209,6 +209,7 @@ footer{
     width: 100%; 
     top: 270px; 
     left: 0px; 
+ height: 425px;
     background: rgb(0, 100, 0); 
 } 
 .footer-info{ 
