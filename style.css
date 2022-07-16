@@ -109,6 +109,7 @@ main{
    padding: 5%;
    padding-bottom: 20%;
    left: -9%;
+   width: 100%; 
 }
 .menu-img{
     width: 30%;
@@ -189,8 +190,8 @@ main{
    
  }
 .dada{
-    color:rgb(15, 199, 77);
-    border-bottom: 20px solid greenyellow;
+    color:rgb(231, 211, 33);
+    border-bottom: 20px solid rgb(224, 194, 22);
     left: 2%;
 }
 .dade{
