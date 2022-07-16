@@ -173,6 +173,11 @@ main{
     color: rgba(0, 0, 0, 0.25);
      border-top: 5px solid white ;
 }
+.yt{
+      width: 890px;
+    height: 200px;
+    padding: 5%;
+}
 
 footer{ 
     position: relative; 
